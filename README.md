@@ -5,9 +5,6 @@ Excel analysis of student fees, installments and scholarships using formulas, su
 ## Overview
 An Excel project that analyzes student fees, installment payments and scholarships across courses and locations. It includes a cleaned dataset, formula-based summary tables and a dashboard.
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## Dataset
 Self-created sample dataset of 100 students with 20 courses and 10 locations. Columns include student ID, course, location, full fees, number of installments, payment status, admission date and scholarship amount. No real student data is used.
 
